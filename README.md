@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**vihan-opp/vihan-opp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Vihan 👋
 
-Here are some ideas to get you started:
+🚀 Aspiring Engineer | 💻 C & C++ Learner | 📈 Improving Every Day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠 About Me
+
+- 🔍 Learning C & C++ from basics to advanced
+- 🧱 Building strong programming foundation
+- ⚡ Focused on logic & problem-solving
+- 🎯 JEE aspirant + coding journey
+
+---
+
+🛠️ Tech Stack
+
+"C" (https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+"C++" (https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+
+---
+
+🚀 Featured Projects
+
+🔥 CodeForge-C
+
+«A strong foundation project in C programming»
+
+- 📌 Covers: loops, arrays, pointers, functions
+- 📌 Includes mini programs & logic building
+- 📌 Goal: Master core C concepts
+
+---
+
+⚡ LogicCore-CPP
+
+«A problem-solving focused C++ journey»
+
+- 📌 Covers: basics, OOP, and logic problems
+- 📌 Focus on thinking & structured coding
+- 📌 Future: DSA & competitive programming
+
+---
+
+📈 Current Goals
+
+- ✅ Master C
+- 🔄 Improve C++ problem solving
+- 🔜 Start DSA
+- 🚀 Build real projects
+
+---
+
+🔥 Quote
+
+«"Consistency builds mastery."»
